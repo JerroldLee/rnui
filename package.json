@@ -1,14 +1,14 @@
 {
-  "name": "mrn",
+  "name": "rnui",
   "version": "0.1.7",
-  "description": "React Native Material Design Components",
+  "description": "React Native UI",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/binggg/mrn.git"
+    "url": "https://github.com/JerroldLee/rnui.git"
   },
   "keywords": [
     "react-native",
@@ -18,12 +18,12 @@
     "components",
     "react-component"
   ],
-  "author": "Ben Zhao <benzhao1988@gmail.com> (http://binggg.net/)",
+  "author": "JerroldLee <lijiayouyj@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/binggg/react-native-material-design-components/issues"
+    "url": "https://github.com/JerroldLee/rnui/issues"
   },
-  "homepage": "https://github.com/binggg/react-native-material-design-components#readme",
+  "homepage": "https://github.com/JerroldLee/rnui",
   "dependencies": {
     "react-native-material-design-styles": "^0.2.5"
   }
